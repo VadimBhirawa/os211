@@ -2,3 +2,7 @@
 ZCZC W01 zahrahrp
 ZCZC W01 valentinohp
 ZCZC W01 X1non
+ZCZC W02 valentinohp
+ZCZC W02 X1non
+ZCZC W02 yosuahutagalung
+ZCZC W02 Zsaschz
