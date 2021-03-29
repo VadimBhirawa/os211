@@ -62,3 +62,14 @@ ZCZC W03 30 L22 YouTube: study, look for materials
 ZCZC W03 15 L06 Reading References/Books/Documents
 ZCZC W03 10 L09 AsDos: asking, etc.
 ZCZC W03 30 L26 Movie: watch shows
+
+ZCZC W04 100 L02 ZOOM related
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 120 L10 Assignment (general)
+ZCZC W04 60 L05 GSGS related for Top 10
+ZCZC W04 30 L22 YouTube: study, look for materials
+ZCZC W04 15 L06 Reading References/Books/Documents
+ZCZC W03 90 L26 Movie: watch shows
+ZCZC W04 30 L10 Assignment (general)
+ZCZC W04 30 L22 YouTube: study, look for materials
+ZCZC W03 30 L26 Movie: watch shows
