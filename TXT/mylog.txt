@@ -85,3 +85,16 @@ ZCZC W05 90 L99 Other (Fix laptop fan problems again)
 ZCZC W05 30 L10 Assignment (general)
 ZCZC W05 30 L22 YouTube: Watch Gaming Virtual Machine videos
 ZCZC W05 120 L26 Movie: watch a movie
+
+ZCZC W06 100 L02 ZOOM related
+ZCZC W06 30 L01 SCELE related
+ZCZC W06 100 L26 Movie: watch shows
+ZCZC W06 180 L99 Study for other midterms
+ZCZC W06 60 L22 YouTube: study, look for materials
+ZCZC W06 15 L10 Assignment (general)
+ZCZC W06 120 L10 Assignment (general)
+ZCZC W06 75 L05 GSGS related for Top 10
+ZCZC W06 45 L22 YouTube: Study and related to Top 10
+ZCZC W06 30 L10 Assignment (general)
+ZCZC W06 60 L10 Assignment (general)
+ZCZC W06 180 L26 Movie: watch a movie and tv show
