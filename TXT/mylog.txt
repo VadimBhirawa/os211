@@ -98,3 +98,16 @@ ZCZC W06 45 L22 YouTube: Study and related to Top 10
 ZCZC W06 30 L10 Assignment (general)
 ZCZC W06 60 L10 Assignment (general)
 ZCZC W06 180 L26 Movie: watch a movie and tv show
+
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07 30 L01 SCELE related
+ZCZC W07 100 L26 Movie: watch shows
+ZCZC W07 60 L22 YouTube: study, look for materials
+ZCZC W07 15 L10 Assignment (general)
+ZCZC W07 180 L10 Assignment (general)
+ZCZC W07 30 L05 GSGS about pgp keys
+ZCZC W07 30 L09 AsDos: ask some things
+ZCZC W07 5 L07 Demo for Week 07
+ZCZC W07 90 L05 GSGS for Top 10
+ZCZC W07 60 L10 Assignment (general)
+ZCZC W07 60 L22 YouTube: Watch videos to relax
