@@ -122,3 +122,14 @@ ZCZC W08 30 L05 GSGS for LFS
 ZCZC W08 180 L10 Assignment (general)
 ZCZC W08 30 L22 YouTube: Watch videos to relax
 ZCZC W08 30 L26 Movie: watch a movie and tv show
+
+ZCZC W09 30 L01 SCELE related
+ZCZC W09 60 L06 Reading References
+ZCZC W09 30 L05 GSGS Continuing about how to make OS
+ZCZC W09 90 L05 GSGS for Top 10
+ZCZC W09 90 L10 Assignment (general)
+ZCZC W09 30 L05 GSGS some more for LFS
+ZCZC W09 30 L09 AsDos: ask some things about making OS
+ZCZC W09 180 L10 Assignment (general)
+ZCZC W09 30 L22 YouTube: Watch videos to relax
+ZCZC W09 30 L26 Movie: watch a movie and tv show
